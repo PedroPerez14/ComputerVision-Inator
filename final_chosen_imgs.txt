@@ -1,0 +1,2 @@
+../new_pictures/torre_belem_1.jpg
+../new_pictures/torre_belem_4.jpg

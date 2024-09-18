@@ -1,0 +1,22 @@
+name: CVISEnv
+channels:
+  - defaults
+dependencies:
+  - openssl=1.1.1q
+  - pip=22.1.2
+  - python=3.9.13
+  - pip:
+    - cycler==0.11.0
+    - fonttools==4.37.1
+    - kiwisolver==1.4.4
+    - matplotlib==3.5.3
+    - numpy==1.23.3
+    - opencv-python==4.6.0.66
+    - packaging==21.3
+    - pillow==9.2.0
+    - pyparsing==3.0.9
+    - python-dateutil==2.8.2
+    - scipy==1.9.1
+    - six==1.16.0
+    - tenacity==8.0.1
+
